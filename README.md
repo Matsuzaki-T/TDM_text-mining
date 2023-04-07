@@ -28,4 +28,4 @@ Web-based application of module 3.0 is available [here](https://pubmed-exporter.
 
 ## PubMed exporter
 The ready to use web-based application for obtaining records comprising abstracts and titles of indicated publications.
-![How to use](/Files/Figure3A.pdf)
+![How to use](/Files/Figure 3A.pdf)
