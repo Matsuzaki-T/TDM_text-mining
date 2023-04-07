@@ -1,5 +1,5 @@
 This repository contains the code and the dataset used for our manuscript. Module 3.0 enables automated extraction of titles and abstracts of indicated articles by PubMed ID.
-Web-based application of module 3.0 is available [here](https://matsuzaki-t-pubmed-exporter-pubmed-exporter-5pvnp2.streamlit.app).
+Web-based application of module 3.0 is available [here](https://pubmed-exporter.herokuapp.com/).
 
 ## Software requirements
 - Python >=3.9.12
