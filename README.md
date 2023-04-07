@@ -13,7 +13,7 @@ Web-based application of module 3.0 (Pubmed exporter) is available [here](https:
 - wordcloud >=1.8.2.2
 - spacy >=3.4.4
 - scikit-learn >=1.0.2
-- 
+
 ## Modules
 - Module1.0 for producing Table1
 - Module2.0 for producing Table2 from Table1. Table3 (corresponding to Supplemental Table2 and Figur2B) was prepared by data cleaning of Table2.
