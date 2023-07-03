@@ -1,4 +1,4 @@
-This repository contains the code and the dataset used for our manuscript. Module 3.0 enables automated extraction of titles and abstracts of indicated articles by PubMed ID.
+This repository contains the code and the dataset used for [our manuscript](https://www.medrxiv.org/content/10.1101/2023.06.22.23291733v1). Module 3.0 enables automated extraction of titles and abstracts of indicated articles by PubMed ID.
 Web-based application of module 3.0 (Pubmed exporter) is available [here](https://pubmed-exporter.herokuapp.com/).
 
 ## Software requirements
