@@ -21,7 +21,7 @@ Web-based application of module 3.0 (Pubmed exporter) is available [here](https:
 - Module2.2 for venn-diagram in Fig.2C.
 - Module3.0 for retrieving PubMed records of the indicated publications.
 - Module4.0 for word cloud analysis. WC1–4 (corresponding to Fig.3C) and WC5–8 (corresponding to Fig.3D) were prepared from Table11–14 and 15–18, respectively.
-- Module5.0 for Latent Dirichlet allocation (LDA). Table7–10 were used for LDA, producing Table19–64. Table29 (topic = 20) was used for in Fig.4. Table41 includes perplexity of each topic (Fig.S2).
+- Module5.0 for Latent Dirichlet allocation (LDA). Table7–10 were used for LDA, producing Table19–64. Table29 (topic = 20) was used for in Fig.4. Table41 includes perplexity of each topic (Supplementary Fig.S2).
 
 ## PubMed exporter
 The ready to use web-based application for obtaining records comprising abstracts and titles of indicated publications.
